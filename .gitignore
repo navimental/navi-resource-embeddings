@@ -1,0 +1,15 @@
+# Common gitignore for python with a .env for environment variables
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment variables
+.env
+.venv/
+venv/
+ENV/
